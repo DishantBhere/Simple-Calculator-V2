@@ -15,6 +15,6 @@ Real-time input and result display
 
 ### Yo i also created Scientific Version of this Do check Out 
 ## Scientific Calculator
-[Click here to try it](https://dishantbhere.github.io/scientific-calculator/)
+[Click here to try it](https://dishantbhere.github.io/Scientific-Calculator/)
 
 ![image](https://github.com/user-attachments/assets/e46910d7-f311-4548-bf55-c28c97267d28)
